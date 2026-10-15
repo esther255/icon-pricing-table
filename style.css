@@ -41,7 +41,10 @@ h1 {
   padding: 16px;
   border-bottom: 1px solid #e2e8f0;
 }
-g
+.pricing-table {
+  border-radius: 8px;
+  overflow: hidden;
+}
 
 .pricing-table tbody tr:hover {
   background: #dbeafe;
